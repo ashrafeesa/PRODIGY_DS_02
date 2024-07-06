@@ -23,7 +23,7 @@ The <a href="https://www.kaggle.com/c/titanic/data">Titanic-Dataset</a> is a wel
 <p>The data cleaning and exploratory data analysis performed on the Titanic dataset provided valuable insights into the factors influencing survival rates during the Titanic disaster. This analysis contributes to a better understanding of historical events and showcases the application of data science techniques in deriving meaningful insights from data.</p>
 
 
-## 📬 Contact
+##  Contact nInformation
 <p dir="outo">For any inquiries or feedback regarding this project, please contact:</p>
 <ul dir="outo">
   <li> <a href="https://www.linkedin.com/in/ashraf-k-eesa-b8b8802b4/" rel="nofollow">Ashraf K.Eeesa (LinkedIn)</a> </li>
