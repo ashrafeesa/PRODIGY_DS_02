@@ -1,6 +1,6 @@
 # Prodigy InfoTech Data Science Internship Task 2:
 <p dir="outo">
-<img width="742" alt="DS_Task_1" src="https://github.com/ashrafeesa/PRODIGY_DS_01/assets/143039004/7886ee35-67d6-4cdf-b512-a2a3450ef91c">
+<img width="736" alt="DS_Task_2" src="https://github.com/ashrafeesa/PRODIGY_DS_01/assets/143039004/62118772-f92d-47f0-8904-ef028d66713d">
 </p>
 
 ## Introduction
