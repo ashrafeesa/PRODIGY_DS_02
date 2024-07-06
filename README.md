@@ -26,6 +26,6 @@ The <code><a href="https://www.kaggle.com/c/titanic/data">Titanic-Dataset</a></c
 ##  Contact nInformation
 <p dir="outo">For any inquiries or feedback regarding this project, please contact:</p>
 <ul dir="outo">
-  <li> <a href="https://www.linkedin.com/in/ashraf-k-eesa-b8b8802b4/" rel="nofollow">Ashraf K.Eeesa (LinkedIn)</a> </li>
-  <li> Email: <a href="mailto:ashrafeesa9@gmail.com">ashrafeesa9@gmail.com</a></li>
+  <li> <a href="https://www.linkedin.com/in/ashraf-k-eesa-b8b8802b4/" rel="nofollow" target="_blank">Ashraf K.Eeesa (LinkedIn)</a> </li>
+  <li> Email: <a href="mailto:ashrafeesa9@gmail.com" target="_blank">ashrafeesa9@gmail.com</a></li>
 </ul>
